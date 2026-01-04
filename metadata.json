@@ -1,0 +1,7 @@
+{
+  "name": "상세페이지 분석후 이미지 프롬프트 생성기",
+  "description": "브랜드 분석과 이미지 생성을 통해 설득력 있는 10장 구성의 상품 상세페이지 시퀀스를 제작하는 AI 도구입니다.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
